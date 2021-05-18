@@ -1,3 +1,2 @@
 # hello-world
-Hello world! Harry here, i like creating new worlds in minecraft.
-print("Hello World!")
+Hello world! Harry here. Don't be mad, just be bad. Mad cuz bad.
